@@ -1,4 +1,4 @@
-# HPCDL [RS 2025]
+# HPCDL
  This is the  Matlab implementation of  paper "Large-scale Hyperspectral Image Projected Clustering via Doubly-stochastic Graph Learning", which is accepted by [Remote Sensing] in 2025. If you are interested at this work, you can star the repository for newest update. Thanks!
 
 # For more works
