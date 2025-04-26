@@ -5,13 +5,14 @@
 My studies focus on machine learning (deep learning) and its applications to image enhancement, data clustering (classification), object recognition (tracking) etc.  If you are interested at my works, you can get more papers and codes at my [Homepage](https://nianwang-hjjgcdx.github.io/).
 
 # Usage
-First, you should download Longkou dataset at the [Link](https://pan.baidu.com/s/1j60wv6lgQbB0WMoUaBeJTw?pwd=1234), extract code: 1234. 
+First, you should download Longkou dataset at the [Link](https://pan.baidu.com/s/1j60wv6lgQbB0WMoUaBeJTw?pwd=1234) and put it in "dataset" path, extract code: 1234. 
 Then run "demo.m", the results will be  obtained. We  simultaneously provide the accuracy of each landcover as well as some overall evaluation metrics like OA, NMI etc.
 # Acknowledge
 This work  partly relies on the following paper. We sincerely think their outstanding contributions.
 
 [1] Jiang, G.; Zhang, Y.; Wang, X.; Jiang, X.; Zhang, L. Structured Anchor Learning for Large-Scale Hyperspectral Image Projected Clustering. IEEE Transactions on Circuits and Systems for Video Technology 2024. 
 
+# citation
 If you use our code, please kindly cite our paper by
 
 ```
