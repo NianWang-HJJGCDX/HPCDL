@@ -12,7 +12,7 @@ This work  partly relies on the following paper. We sincerely think their outsta
 
 [1] Jiang, G.; Zhang, Y.; Wang, X.; Jiang, X.; Zhang, L. Structured Anchor Learning for Large-Scale Hyperspectral Image Projected Clustering. IEEE Transactions on Circuits and Systems for Video Technology 2024. 
 
-# citation
+# Citation
 If you use our code, please kindly cite our paper by
 
 ```
